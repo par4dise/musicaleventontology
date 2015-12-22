@@ -2,6 +2,10 @@
 Ontology of a musical event ; initiated for a scholar project in computing MSc.  
 Mostly in french, sorry.  
 
+### Licence
+Music Event Ontology est mis à disposition selon les termes de la [licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).  
+https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+
 ### Files
 *meo-model.rdf*: OWL ontology in RDF format  
 *MusicEventOntology.png*: simplified schema of the ontology  
