@@ -45,7 +45,7 @@ v0.1
 * 1ère version
 
 ## Inspiration
-*A Distributed Music Information System* [PhD thesis](http://raimond.me.uk/phd/) by Yves Raimond.
+*A Distributed Music Information System* [PhD thesis](http://raimond.me.uk/phd/) by Yves Raimond aka [@moustaki](https://github.com/moustaki).
 
 ### Licence
 Music Event Ontology est mis à disposition selon les termes de la licence [Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).   
