@@ -2,10 +2,6 @@
 Ontology of a musical event ; initiated for a scholar project in computing MSc.  
 Mostly in french, sorry.  
 
-### Licence
-Music Event Ontology est mis à disposition selon les termes de la [licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).  
-https://i.creativecommons.org/l/by-sa/4.0/88x31.png
-
 ### Files
 *meo-model.rdf*: OWL ontology in RDF format  
 *MusicEventOntology.png*: simplified schema of the ontology  
@@ -16,7 +12,7 @@ https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 See https://github.com/chenyang/FindEvent
 
 ### History
-v0.
+v0.5
 * Ajout de la classe #DataBusiness pour les annotations
 * Ajout de la propriété #hasForTarget
 * Suppression de la classe #Artist
@@ -47,3 +43,10 @@ v0.2
 
 v0.1
 * 1ère version
+
+## Inspiration
+*A Distributed Music Information System* [PhD thesis](http://raimond.me.uk/phd/) by Yves Raimond.
+
+### Licence
+Music Event Ontology est mis à disposition selon les termes de la licence [Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).   
+![CC BY 4.0 logo](https://i.creativecommons.org/l/by/4.0/88x31.png "CC BY 4.0 logo")

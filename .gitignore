@@ -21,7 +21,7 @@
 
 # Folders #
 ###########
-/parsing \json/src
+/parsing \json/
 
 # Logs and databases #
 ######################
@@ -41,8 +41,24 @@ Thumbs.db
 *~
 #*.lock
 *.out
+*.docx
+*.jpg
 
 # Other #
 #########
 *.OLD.php
 /nbproject
+
+# Files #
+doc/MusicEvent slides.pptx
+doc/MusicEvent slides.pdf
+doc/MusicEvent slides Yves.pdf
+doc/FindEvent use cases.png
+doc/FindEvent use cases.pdf
+doc/API keys.txt
+
+ontologie/musiceventontology - history.txt
+ontologie/musiceventontology.rdf
+ontologie/meo-data vide.rdf
+ontologie/meo-data.rdf
+ontologie/meo-model v0.4 fr.rdf
